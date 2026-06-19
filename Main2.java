@@ -1,3 +1,7 @@
+//3. Suspicious Login Attempt Detection
+//Problem Statement
+//Amazon’s security system tracks login attempts made by users. If the same user ID attempts to log in more than 3 times consecutively, the account is flagged as
+//suspicious for security review. Given a sequence of login attempts, determine whether any suspicious activity exists.
 
 import java.util.*;
 public class Main2
