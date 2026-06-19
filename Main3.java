@@ -1,3 +1,7 @@
+//4. Delivery Partner Performance Check
+//Problem Statement
+//Amazon evaluates its delivery partners daily. Each partner’s delivery time (in minutes) is recorded. The management wants to identify the fastest delivery 
+//completed in a day. Given the delivery times of all partners, determine the minimum delivery time.
 
 import java.util.*;
 public class Main3
