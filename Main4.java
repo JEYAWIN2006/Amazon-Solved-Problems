@@ -1,3 +1,8 @@
+//5. Inventory Threshold Alert
+//Problem Statement
+//Amazon’s warehouse management system constantly monitors stock levels. Each product has a minimum threshold value. If the current stock of a product falls 
+//below the threshold, the system must immediately trigger a restocking alert. Given the current stock and threshold, determine whether restocking is required.
+
 import java.util.*;
 public class Main4 {
     public static void main(String[] args) {
